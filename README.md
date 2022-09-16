@@ -6,6 +6,6 @@
 </p>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=gotham"></a>
+![One Direction's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhang2657977442&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

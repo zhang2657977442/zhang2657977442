@@ -1,7 +1,7 @@
 <h3 align="center">Hello there, I'm One Direction 👋</h3>
 <br>
 <p align="center">
-  Hi, I'm One Direction, Computer Engineer & Software Developer from Turkey
+  Hi, I'm One Direction, Front End & Full Stack Developer
   <br>
 </p>
 

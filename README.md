@@ -1,6 +1,6 @@
 <h3 align="center">Hello there, I'm One Direction 👋</h3>
 <p align="center">
-  QQ：2657977449 | WX：zhang2657977449
+  QQ：2657977449 | 微信：zhang2657977449
 </p>
 <p align="center">
   Hi, I'm One Direction, Front End & Full Stack Developer 😜

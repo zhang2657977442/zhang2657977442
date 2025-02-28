@@ -3,7 +3,7 @@
   QQ：2657977449 | WeChat：zhang2657977449
 </p>
 <p align="center">
-  Hi, I'm One Direction, Software Developer & Trader 😜
+  Hi, I'm One Direction, Developer & Trader 😜
 </p>
 
 <img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=zhang2657977442&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
